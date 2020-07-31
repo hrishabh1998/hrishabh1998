@@ -16,14 +16,14 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://github.com/hrishabh1998/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrishabh1998" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrishabh1998&theme=dark" />
 </a>
 <a href="https://github.com/hrishabh1998/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=hrishabh1998" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=hrishabh1998&show_icons=true&theme=dark" />
 </a>
 <!-- Actual text -->
 
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2]
 
 <!-- Icons -->
 
@@ -33,6 +33,6 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 <!-- Links to your social media accounts -->
 
 [1]: https://twitter.com/Hrishabh1998
-[2]: https://www.linkedin.com/in/hrishabh-patidar-1a702b133/
+[2]: https://www.linkedin.com/in/hrishabh-patidar-1a702b133
 
-[](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
