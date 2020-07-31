@@ -15,12 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/hrishabh1998/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrishabh1998&theme=dark" />
-</a>
-<a href="https://github.com/hrishabh1998/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=hrishabh1998&show_icons=true&theme=dark" />
-</a>
 <!-- Actual text -->
 
 You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2]
@@ -35,4 +29,12 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2]
 [1]: https://twitter.com/Hrishabh1998
 [2]: https://www.linkedin.com/in/hrishabh-patidar-1a702b133
 
+
+
+<a href="https://github.com/hrishabh1998/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrishabh1998&theme=dark" />
+</a>
+<a href="https://github.com/hrishabh1998/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=hrishabh1998&show_icons=true&theme=dark" />
+</a>
 
