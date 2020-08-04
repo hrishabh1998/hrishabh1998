@@ -34,7 +34,7 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2]
 <a href="https://github.com/hrishabh1998/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrishabh1998&theme=dark" />
 </a>
-<a href="https://github.com/hrishabh1998/github-readme-stats">
+<!-- <a href="https://github.com/hrishabh1998/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=hrishabh1998&show_icons=true&theme=dark" />
-</a>
+</a>-->
 
